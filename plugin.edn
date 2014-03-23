@@ -1,0 +1,6 @@
+{:name "CSSLive"
+ :version "0.0.1"
+ :author "Dave Coates"
+ :source "https://github.com/davecoates/lt-CSSLive"
+ :desc "Reflect CSS changes as you type"
+ :behaviors "CSSLive.behaviors"}
